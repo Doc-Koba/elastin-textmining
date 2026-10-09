@@ -18,7 +18,7 @@ The bibliographic records and abstracts retrieved from the Web of Science cannot
 | `data/cooccurrence_network_khcoder.html` | The co-occurrence network as exported by KH Coder (interactive HTML; 44 terms, 60 edges, 11 subgraphs). |
 | `data/network_nodes.csv`, `data/network_edges.csv` | The same network as tables (term, subgraph, frequency; source, target, within-subgraph flag). |
 | `data/ca_characteristic_terms_monkin_ja.txt` | Characteristic terms of each period as output by Monkin Reporting for KH Coder (Japanese, unedited). |
-| `data/ca_terms_figure3.csv`, `data/ca_periods_figure3.csv` | Coordinates of the 60 terms and the six periods on the first two dimensions, read from the PDF of Figure 3, with distance and angle from the origin and the sector(s) as drawn. |
+| `data/ca_terms_figure3.csv`, `data/ca_periods_figure3.csv` | Coordinates of the 60 terms and the six periods on the first two dimensions, read from the PDF of Figure 3 (precision about ±0.01), with distance and angle from the origin, whether the term lies inside the dashed circle, and the period(s) of which it is characteristic under the rule described below. |
 | `data/period_counts.csv` | Numbers of records and of records with an abstract per period (Table S2). |
 | `figures/` | Figures 1–3 and Figures S1–S2 of the manuscript (vector PDF, fonts embedded). |
 | `tables/` | Supplementary Tables S1–S3. |
@@ -37,7 +37,7 @@ The bibliographic records and abstracts retrieved from the Web of Science cannot
 
 **Co-occurrence network.** Jaccard coefficient, the 60 strongest edges (KH Coder default), subgraph detection by the modularity-based method (KH Coder default), node size proportional to frequency.
 
-**Correspondence analysis.** Terms × publication period (six periods as an external variable), the 60 terms with the largest chi-square values (KH Coder default), first two dimensions (84.26% and 10.09% of the inertia). The sectors and the dashed circle in Figure 3 were drawn by Monkin Reporting for KH Coder.
+**Correspondence analysis.** Terms × publication period (six periods as an external variable), the 60 terms with the largest chi-square values (KH Coder default), first two dimensions (84.26% and 10.09% of the inertia). The sectors and the dashed circle in Figure 3 were drawn by Monkin Reporting for KH Coder. Each sector covers ±15° around the direction of a period; the sector of 1990–1999 is cut off at the lower left corner of the plotting area. The dashed circle has a radius of 0.51 in the units of the plot. A term is characteristic of a period when it lies within 15° of the direction of that period and outside the dashed circle; with the coordinates in `data/ca_terms_figure3.csv`, this rule reproduces the lists in `data/ca_characteristic_terms_monkin_ja.txt` exactly, including their order (by distance from the origin). In Figure 3 the label *smooth* is displaced from its point and joined to it by a grey line.
 
 **Figure 1.** Redrawn in two columns from the KH Coder dendrogram:
 
@@ -47,7 +47,7 @@ python scripts/dendro_extract.py figures/Figure_S2.pdf data/terms120.json data/d
 python scripts/make_figure1.py data/dendrogram_tree.json Figure_1
 ```
 
-(`dendro_extract.py` expects the term list as JSON with `freq` and `cluster` per term; the tree it produces is already provided as `data/dendrogram_tree.json`, so the second command alone reproduces Figure 1.) Versions used: Python 3.13.16, Matplotlib 3.11.2, pdfplumber 0.11.10.
+(`dendro_extract.py` expects the term list as JSON with `freq` and `cluster` per term; the tree it produces is already provided as `data/dendrogram_tree.json`, so the second command alone reproduces Figure 1.) Versions used: Python 3.13.16, Matplotlib 3.11.2, pdfplumber 0.11.10. The two scripts, and the coordinates in `data/ca_terms_figure3.csv` and `data/ca_periods_figure3.csv`, were prepared with the assistance of an AI assistant (Claude, Anthropic) and checked by the authors against the KH Coder output.
 
 **LLM-assisted interpretation.** See `llm/`.
 
