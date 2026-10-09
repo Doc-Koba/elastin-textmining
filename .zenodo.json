@@ -1,0 +1,15 @@
+{
+  "title": "From matrix to materials: Mapping five decades of elastin research through multivariate text mining (data and code)",
+  "upload_type": "dataset",
+  "description": "Derived data, figures and scripts of a text-mining study of 20,217 Web of Science records on elastin research (1975-2025): the stop-word list, the 120 most frequent terms with cluster assignments, the outputs of hierarchical cluster analysis, co-occurrence network analysis and correspondence analysis by period (KH Coder 3.02c with Monkin Reporting for KH Coder 2.0), the scripts used to draw Figure 1, and the code, prompts and outputs of the LLM-assisted interpretation. The bibliographic records themselves are not included because they cannot be redistributed.",
+  "creators": [
+    {"name": "Kobayashi, Yoshiyuki", "affiliation": "Hoshi University"},
+    {"name": "Kusunoki, Yoshiki", "affiliation": "Yokohama University of Pharmacy"},
+    {"name": "Kageyama, Itsuki", "affiliation": "Hoshi University"},
+    {"name": "Wachi, Hiroshi", "affiliation": "Hoshi University"},
+    {"name": "Kodama, Kota", "affiliation": "Hoshi University"}
+  ],
+  "keywords": ["elastin", "extracellular matrix", "biomaterials", "text mining", "bibliometrics", "KH Coder", "correspondence analysis"],
+  "license": "MIT",
+  "access_right": "open"
+}

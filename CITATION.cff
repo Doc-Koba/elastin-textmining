@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use these data or scripts, please cite the manuscript below (and this repository)."
+title: "From matrix to materials: Mapping five decades of elastin research through multivariate text mining (data and code)"
+type: dataset
+authors:
+  - family-names: Kobayashi
+    given-names: Yoshiyuki
+    affiliation: "Hoshi University; University of Tsukuba; Ritsumeikan University"
+  - family-names: Kusunoki
+    given-names: Yoshiki
+    affiliation: "Yokohama University of Pharmacy"
+  - family-names: Kageyama
+    given-names: Itsuki
+    affiliation: "Hoshi University"
+  - family-names: Wachi
+    given-names: Hiroshi
+    affiliation: "Hoshi University"
+  - family-names: Kodama
+    given-names: Kota
+    affiliation: "Hoshi University; Ritsumeikan University; Hokkaido University"
+repository-code: "https://github.com/Doc-Koba/elastin-textmining"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-09"
+keywords:
+  - elastin
+  - extracellular matrix
+  - biomaterials
+  - text mining
+  - bibliometrics
+  - KH Coder
+preferred-citation:
+  type: article
+  title: "From matrix to materials: Mapping five decades of elastin research through multivariate text mining"
+  authors:
+    - family-names: Kobayashi
+      given-names: Yoshiyuki
+    - family-names: Kusunoki
+      given-names: Yoshiki
+    - family-names: Kageyama
+      given-names: Itsuki
+    - family-names: Wachi
+      given-names: Hiroshi
+    - family-names: Kodama
+      given-names: Kota
+  journal: "International Journal of Biological Macromolecules"
+  year: 2026
+  notes: "Manuscript submitted."

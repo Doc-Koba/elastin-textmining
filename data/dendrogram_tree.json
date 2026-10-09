@@ -1,0 +1,2874 @@
+{
+ "cut": 1.255,
+ "leaves": [
+  {
+   "term": "diameter",
+   "freq": 2037,
+   "cluster": 1,
+   "color": [
+    0.682,
+    0.192,
+    0.129
+   ]
+  },
+  {
+   "term": "aneurysm",
+   "freq": 3328,
+   "cluster": 1,
+   "color": [
+    0.682,
+    0.192,
+    0.129
+   ]
+  },
+  {
+   "term": "aorta",
+   "freq": 4711,
+   "cluster": 1,
+   "color": [
+    0.682,
+    0.192,
+    0.129
+   ]
+  },
+  {
+   "term": "aortic",
+   "freq": 8653,
+   "cluster": 1,
+   "color": [
+    0.682,
+    0.192,
+    0.129
+   ]
+  },
+  {
+   "term": "muscle",
+   "freq": 5047,
+   "cluster": 1,
+   "color": [
+    0.682,
+    0.192,
+    0.129
+   ]
+  },
+  {
+   "term": "smooth",
+   "freq": 3646,
+   "cluster": 1,
+   "color": [
+    0.682,
+    0.192,
+    0.129
+   ]
+  },
+  {
+   "term": "vessel",
+   "freq": 3243,
+   "cluster": 1,
+   "color": [
+    0.682,
+    0.192,
+    0.129
+   ]
+  },
+  {
+   "term": "blood",
+   "freq": 2708,
+   "cluster": 1,
+   "color": [
+    0.682,
+    0.192,
+    0.129
+   ]
+  },
+  {
+   "term": "pressure",
+   "freq": 2859,
+   "cluster": 1,
+   "color": [
+    0.682,
+    0.192,
+    0.129
+   ]
+  },
+  {
+   "term": "artery",
+   "freq": 5252,
+   "cluster": 1,
+   "color": [
+    0.682,
+    0.192,
+    0.129
+   ]
+  },
+  {
+   "term": "arterial",
+   "freq": 3459,
+   "cluster": 1,
+   "color": [
+    0.682,
+    0.192,
+    0.129
+   ]
+  },
+  {
+   "term": "wall",
+   "freq": 5721,
+   "cluster": 1,
+   "color": [
+    0.682,
+    0.192,
+    0.129
+   ]
+  },
+  {
+   "term": "vascular",
+   "freq": 5991,
+   "cluster": 1,
+   "color": [
+    0.682,
+    0.192,
+    0.129
+   ]
+  },
+  {
+   "term": "polymer",
+   "freq": 1960,
+   "cluster": 2,
+   "color": [
+    0.0,
+    0.475,
+    0.675
+   ]
+  },
+  {
+   "term": "material",
+   "freq": 3729,
+   "cluster": 2,
+   "color": [
+    0.0,
+    0.475,
+    0.675
+   ]
+  },
+  {
+   "term": "application",
+   "freq": 2730,
+   "cluster": 2,
+   "color": [
+    0.0,
+    0.475,
+    0.675
+   ]
+  },
+  {
+   "term": "system",
+   "freq": 3167,
+   "cluster": 2,
+   "color": [
+    0.0,
+    0.475,
+    0.675
+   ]
+  },
+  {
+   "term": "drug",
+   "freq": 1836,
+   "cluster": 2,
+   "color": [
+    0.0,
+    0.475,
+    0.675
+   ]
+  },
+  {
+   "term": "new",
+   "freq": 2321,
+   "cluster": 2,
+   "color": [
+    0.0,
+    0.475,
+    0.675
+   ]
+  },
+  {
+   "term": "potential",
+   "freq": 2082,
+   "cluster": 2,
+   "color": [
+    0.0,
+    0.475,
+    0.675
+   ]
+  },
+  {
+   "term": "temperature",
+   "freq": 2132,
+   "cluster": 2,
+   "color": [
+    0.0,
+    0.475,
+    0.675
+   ]
+  },
+  {
+   "term": "polypeptide",
+   "freq": 1931,
+   "cluster": 2,
+   "color": [
+    0.0,
+    0.475,
+    0.675
+   ]
+  },
+  {
+   "term": "acid",
+   "freq": 3643,
+   "cluster": 2,
+   "color": [
+    0.0,
+    0.475,
+    0.675
+   ]
+  },
+  {
+   "term": "peptide",
+   "freq": 3962,
+   "cluster": 2,
+   "color": [
+    0.0,
+    0.475,
+    0.675
+   ]
+  },
+  {
+   "term": "sequence",
+   "freq": 2269,
+   "cluster": 2,
+   "color": [
+    0.0,
+    0.475,
+    0.675
+   ]
+  },
+  {
+   "term": "fibroblast",
+   "freq": 2957,
+   "cluster": 3,
+   "color": [
+    0.498,
+    0.353,
+    0.0
+   ]
+  },
+  {
+   "term": "skin",
+   "freq": 7735,
+   "cluster": 3,
+   "color": [
+    0.498,
+    0.353,
+    0.0
+   ]
+  },
+  {
+   "term": "dermal",
+   "freq": 1873,
+   "cluster": 3,
+   "color": [
+    0.498,
+    0.353,
+    0.0
+   ]
+  },
+  {
+   "term": "culture",
+   "freq": 2362,
+   "cluster": 3,
+   "color": [
+    0.498,
+    0.353,
+    0.0
+   ]
+  },
+  {
+   "term": "production",
+   "freq": 2300,
+   "cluster": 3,
+   "color": [
+    0.498,
+    0.353,
+    0.0
+   ]
+  },
+  {
+   "term": "tropoelastin",
+   "freq": 2505,
+   "cluster": 3,
+   "color": [
+    0.498,
+    0.353,
+    0.0
+   ]
+  },
+  {
+   "term": "synthesis",
+   "freq": 2050,
+   "cluster": 3,
+   "color": [
+    0.498,
+    0.353,
+    0.0
+   ]
+  },
+  {
+   "term": "vitro",
+   "freq": 2601,
+   "cluster": 3,
+   "color": [
+    0.498,
+    0.353,
+    0.0
+   ]
+  },
+  {
+   "term": "vivo",
+   "freq": 2409,
+   "cluster": 3,
+   "color": [
+    0.498,
+    0.353,
+    0.0
+   ]
+  },
+  {
+   "term": "scaffold",
+   "freq": 3318,
+   "cluster": 3,
+   "color": [
+    0.498,
+    0.353,
+    0.0
+   ]
+  },
+  {
+   "term": "graft",
+   "freq": 2074,
+   "cluster": 3,
+   "color": [
+    0.498,
+    0.353,
+    0.0
+   ]
+  },
+  {
+   "term": "proliferation",
+   "freq": 1987,
+   "cluster": 3,
+   "color": [
+    0.498,
+    0.353,
+    0.0
+   ]
+  },
+  {
+   "term": "endothelial",
+   "freq": 1851,
+   "cluster": 3,
+   "color": [
+    0.498,
+    0.353,
+    0.0
+   ]
+  },
+  {
+   "term": "cell",
+   "freq": 19879,
+   "cluster": 4,
+   "color": [
+    0.408,
+    0.259,
+    0.808
+   ]
+  },
+  {
+   "term": "tissue",
+   "freq": 15719,
+   "cluster": 4,
+   "color": [
+    0.408,
+    0.259,
+    0.808
+   ]
+  },
+  {
+   "term": "elastin",
+   "freq": 23283,
+   "cluster": 4,
+   "color": [
+    0.408,
+    0.259,
+    0.808
+   ]
+  },
+  {
+   "term": "collagen",
+   "freq": 15847,
+   "cluster": 4,
+   "color": [
+    0.408,
+    0.259,
+    0.808
+   ]
+  },
+  {
+   "term": "protein",
+   "freq": 13156,
+   "cluster": 4,
+   "color": [
+    0.408,
+    0.259,
+    0.808
+   ]
+  },
+  {
+   "term": "human",
+   "freq": 6938,
+   "cluster": 4,
+   "color": [
+    0.408,
+    0.259,
+    0.808
+   ]
+  },
+  {
+   "term": "component",
+   "freq": 3813,
+   "cluster": 4,
+   "color": [
+    0.408,
+    0.259,
+    0.808
+   ]
+  },
+  {
+   "term": "matrix",
+   "freq": 9502,
+   "cluster": 4,
+   "color": [
+    0.408,
+    0.259,
+    0.808
+   ]
+  },
+  {
+   "term": "extracellular",
+   "freq": 5594,
+   "cluster": 4,
+   "color": [
+    0.408,
+    0.259,
+    0.808
+   ]
+  },
+  {
+   "term": "lung",
+   "freq": 6442,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "pulmonary",
+   "freq": 2757,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "clinical",
+   "freq": 2854,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "patient",
+   "freq": 7957,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "disease",
+   "freq": 5651,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "case",
+   "freq": 2113,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "syndrome",
+   "freq": 1912,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "degradation",
+   "freq": 2823,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "activity",
+   "freq": 6059,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "enzyme",
+   "freq": 2580,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "elastase",
+   "freq": 3363,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "inhibitor",
+   "freq": 2410,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "development",
+   "freq": 4116,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "role",
+   "freq": 4445,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "important",
+   "freq": 2428,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "formation",
+   "freq": 3863,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "process",
+   "freq": 3216,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "interaction",
+   "freq": 2153,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "mechanism",
+   "freq": 3015,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "molecular",
+   "freq": 2489,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "factor",
+   "freq": 4383,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "growth",
+   "freq": 3734,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "level",
+   "freq": 6212,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "expression",
+   "freq": 8562,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "gene",
+   "freq": 5438,
+   "cluster": 5,
+   "color": [
+    0.0,
+    0.447,
+    0.0
+   ]
+  },
+  {
+   "term": "week",
+   "freq": 2643,
+   "cluster": 6,
+   "color": [
+    0.729,
+    0.0,
+    0.596
+   ]
+  },
+  {
+   "term": "rat",
+   "freq": 4868,
+   "cluster": 6,
+   "color": [
+    0.729,
+    0.0,
+    0.596
+   ]
+  },
+  {
+   "term": "day",
+   "freq": 4074,
+   "cluster": 6,
+   "color": [
+    0.729,
+    0.0,
+    0.596
+   ]
+  },
+  {
+   "term": "animal",
+   "freq": 2423,
+   "cluster": 6,
+   "color": [
+    0.729,
+    0.0,
+    0.596
+   ]
+  },
+  {
+   "term": "mouse",
+   "freq": 7087,
+   "cluster": 6,
+   "color": [
+    0.729,
+    0.0,
+    0.596
+   ]
+  },
+  {
+   "term": "model",
+   "freq": 6356,
+   "cluster": 6,
+   "color": [
+    0.729,
+    0.0,
+    0.596
+   ]
+  },
+  {
+   "term": "response",
+   "freq": 3099,
+   "cluster": 6,
+   "color": [
+    0.729,
+    0.0,
+    0.596
+   ]
+  },
+  {
+   "term": "effect",
+   "freq": 6727,
+   "cluster": 6,
+   "color": [
+    0.729,
+    0.0,
+    0.596
+   ]
+  },
+  {
+   "term": "treatment",
+   "freq": 5085,
+   "cluster": 6,
+   "color": [
+    0.729,
+    0.0,
+    0.596
+   ]
+  },
+  {
+   "term": "higher",
+   "freq": 2987,
+   "cluster": 6,
+   "color": [
+    0.729,
+    0.0,
+    0.596
+   ]
+  },
+  {
+   "term": "lower",
+   "freq": 1963,
+   "cluster": 6,
+   "color": [
+    0.729,
+    0.0,
+    0.596
+   ]
+  },
+  {
+   "term": "age",
+   "freq": 3060,
+   "cluster": 6,
+   "color": [
+    0.729,
+    0.0,
+    0.596
+   ]
+  },
+  {
+   "term": "content",
+   "freq": 3284,
+   "cluster": 6,
+   "color": [
+    0.729,
+    0.0,
+    0.596
+   ]
+  },
+  {
+   "term": "change",
+   "freq": 5817,
+   "cluster": 6,
+   "color": [
+    0.729,
+    0.0,
+    0.596
+   ]
+  },
+  {
+   "term": "increase",
+   "freq": 3926,
+   "cluster": 6,
+   "color": [
+    0.729,
+    0.0,
+    0.596
+   ]
+  },
+  {
+   "term": "group",
+   "freq": 7155,
+   "cluster": 6,
+   "color": [
+    0.729,
+    0.0,
+    0.596
+   ]
+  },
+  {
+   "term": "control",
+   "freq": 5520,
+   "cluster": 6,
+   "color": [
+    0.729,
+    0.0,
+    0.596
+   ]
+  },
+  {
+   "term": "difference",
+   "freq": 2683,
+   "cluster": 6,
+   "color": [
+    0.729,
+    0.0,
+    0.596
+   ]
+  },
+  {
+   "term": "significant",
+   "freq": 3831,
+   "cluster": 6,
+   "color": [
+    0.729,
+    0.0,
+    0.596
+   ]
+  },
+  {
+   "term": "concentration",
+   "freq": 2676,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "high",
+   "freq": 3025,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "time",
+   "freq": 2679,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "similar",
+   "freq": 2935,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "condition",
+   "freq": 2289,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "presence",
+   "freq": 2107,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "specific",
+   "freq": 1987,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "type",
+   "freq": 4976,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "different",
+   "freq": 3835,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "membrane",
+   "freq": 1904,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "surface",
+   "freq": 2701,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "layer",
+   "freq": 2521,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "microscopy",
+   "freq": 2260,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "valve",
+   "freq": 2289,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "number",
+   "freq": 1898,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "area",
+   "freq": 2323,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "normal",
+   "freq": 3502,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "sample",
+   "freq": 2543,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "region",
+   "freq": 2348,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "fiber",
+   "freq": 11459,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "elastic",
+   "freq": 9965,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "stiffness",
+   "freq": 2126,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "stress",
+   "freq": 2323,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "strain",
+   "freq": 2088,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "property",
+   "freq": 5920,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "mechanical",
+   "freq": 4700,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "function",
+   "freq": 3809,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "structure",
+   "freq": 5086,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  },
+  {
+   "term": "structural",
+   "freq": 2953,
+   "cluster": 7,
+   "color": [
+    0.0,
+    0.498,
+    0.329
+   ]
+  }
+ ],
+ "nodes": [
+  {
+   "id": 0,
+   "height": 1.1836,
+   "children": [
+    [
+     "node",
+     1
+    ],
+    [
+     "node",
+     4
+    ]
+   ]
+  },
+  {
+   "id": 1,
+   "height": 0.9355,
+   "children": [
+    [
+     "leaf",
+     "diameter"
+    ],
+    [
+     "node",
+     2
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "height": 0.7304,
+   "children": [
+    [
+     "leaf",
+     "aneurysm"
+    ],
+    [
+     "node",
+     3
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "height": 0.6098,
+   "children": [
+    [
+     "leaf",
+     "aorta"
+    ],
+    [
+     "leaf",
+     "aortic"
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "height": 1.1276,
+   "children": [
+    [
+     "node",
+     5
+    ],
+    [
+     "node",
+     6
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "height": 0.2252,
+   "children": [
+    [
+     "leaf",
+     "muscle"
+    ],
+    [
+     "leaf",
+     "smooth"
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "height": 0.963,
+   "children": [
+    [
+     "node",
+     7
+    ],
+    [
+     "node",
+     8
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "height": 0.7011,
+   "children": [
+    [
+     "leaf",
+     "vessel"
+    ],
+    [
+     "leaf",
+     "blood"
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "height": 0.8602,
+   "children": [
+    [
+     "leaf",
+     "pressure"
+    ],
+    [
+     "node",
+     9
+    ]
+   ]
+  },
+  {
+   "id": 9,
+   "height": 0.8146,
+   "children": [
+    [
+     "node",
+     10
+    ],
+    [
+     "node",
+     11
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "height": 0.6791,
+   "children": [
+    [
+     "leaf",
+     "artery"
+    ],
+    [
+     "leaf",
+     "arterial"
+    ]
+   ]
+  },
+  {
+   "id": 11,
+   "height": 0.7908,
+   "children": [
+    [
+     "leaf",
+     "wall"
+    ],
+    [
+     "leaf",
+     "vascular"
+    ]
+   ]
+  },
+  {
+   "id": 12,
+   "height": 1.0655,
+   "children": [
+    [
+     "node",
+     13
+    ],
+    [
+     "node",
+     20
+    ]
+   ]
+  },
+  {
+   "id": 13,
+   "height": 0.9528,
+   "children": [
+    [
+     "node",
+     14
+    ],
+    [
+     "node",
+     17
+    ]
+   ]
+  },
+  {
+   "id": 14,
+   "height": 0.8681,
+   "children": [
+    [
+     "leaf",
+     "polymer"
+    ],
+    [
+     "node",
+     15
+    ]
+   ]
+  },
+  {
+   "id": 15,
+   "height": 0.8366,
+   "children": [
+    [
+     "leaf",
+     "material"
+    ],
+    [
+     "leaf",
+     "application"
+    ]
+   ]
+  },
+  {
+   "id": 16,
+   "height": 0.8366,
+   "children": [
+    [
+     "leaf",
+     "higher"
+    ],
+    [
+     "leaf",
+     "lower"
+    ]
+   ]
+  },
+  {
+   "id": 17,
+   "height": 0.9438,
+   "children": [
+    [
+     "node",
+     18
+    ],
+    [
+     "node",
+     19
+    ]
+   ]
+  },
+  {
+   "id": 18,
+   "height": 0.9062,
+   "children": [
+    [
+     "leaf",
+     "system"
+    ],
+    [
+     "leaf",
+     "drug"
+    ]
+   ]
+  },
+  {
+   "id": 19,
+   "height": 0.9196,
+   "children": [
+    [
+     "leaf",
+     "new"
+    ],
+    [
+     "leaf",
+     "potential"
+    ]
+   ]
+  },
+  {
+   "id": 20,
+   "height": 0.9808,
+   "children": [
+    [
+     "node",
+     21
+    ],
+    [
+     "node",
+     22
+    ]
+   ]
+  },
+  {
+   "id": 21,
+   "height": 0.7873,
+   "children": [
+    [
+     "leaf",
+     "temperature"
+    ],
+    [
+     "leaf",
+     "polypeptide"
+    ]
+   ]
+  },
+  {
+   "id": 22,
+   "height": 0.8968,
+   "children": [
+    [
+     "leaf",
+     "acid"
+    ],
+    [
+     "node",
+     23
+    ]
+   ]
+  },
+  {
+   "id": 23,
+   "height": 0.8197,
+   "children": [
+    [
+     "leaf",
+     "peptide"
+    ],
+    [
+     "leaf",
+     "sequence"
+    ]
+   ]
+  },
+  {
+   "id": 24,
+   "height": 1.1604,
+   "children": [
+    [
+     "node",
+     25
+    ],
+    [
+     "node",
+     27
+    ]
+   ]
+  },
+  {
+   "id": 25,
+   "height": 0.8163,
+   "children": [
+    [
+     "leaf",
+     "fibroblast"
+    ],
+    [
+     "node",
+     26
+    ]
+   ]
+  },
+  {
+   "id": 26,
+   "height": 0.7169,
+   "children": [
+    [
+     "leaf",
+     "skin"
+    ],
+    [
+     "leaf",
+     "dermal"
+    ]
+   ]
+  },
+  {
+   "id": 27,
+   "height": 1.0688,
+   "children": [
+    [
+     "node",
+     28
+    ],
+    [
+     "node",
+     31
+    ]
+   ]
+  },
+  {
+   "id": 28,
+   "height": 0.9365,
+   "children": [
+    [
+     "node",
+     29
+    ],
+    [
+     "node",
+     30
+    ]
+   ]
+  },
+  {
+   "id": 29,
+   "height": 0.8915,
+   "children": [
+    [
+     "leaf",
+     "culture"
+    ],
+    [
+     "leaf",
+     "production"
+    ]
+   ]
+  },
+  {
+   "id": 30,
+   "height": 0.9049,
+   "children": [
+    [
+     "leaf",
+     "tropoelastin"
+    ],
+    [
+     "leaf",
+     "synthesis"
+    ]
+   ]
+  },
+  {
+   "id": 31,
+   "height": 1.046,
+   "children": [
+    [
+     "node",
+     32
+    ],
+    [
+     "node",
+     33
+    ]
+   ]
+  },
+  {
+   "id": 32,
+   "height": 0.7527,
+   "children": [
+    [
+     "leaf",
+     "vitro"
+    ],
+    [
+     "leaf",
+     "vivo"
+    ]
+   ]
+  },
+  {
+   "id": 33,
+   "height": 0.9495,
+   "children": [
+    [
+     "node",
+     34
+    ],
+    [
+     "node",
+     35
+    ]
+   ]
+  },
+  {
+   "id": 34,
+   "height": 0.8639,
+   "children": [
+    [
+     "leaf",
+     "scaffold"
+    ],
+    [
+     "leaf",
+     "graft"
+    ]
+   ]
+  },
+  {
+   "id": 35,
+   "height": 0.8989,
+   "children": [
+    [
+     "leaf",
+     "proliferation"
+    ],
+    [
+     "leaf",
+     "endothelial"
+    ]
+   ]
+  },
+  {
+   "id": 36,
+   "height": 0.9646,
+   "children": [
+    [
+     "node",
+     38
+    ],
+    [
+     "node",
+     43
+    ]
+   ]
+  },
+  {
+   "id": 37,
+   "height": 0.9646,
+   "children": [
+    [
+     "node",
+     110
+    ],
+    [
+     "node",
+     111
+    ]
+   ]
+  },
+  {
+   "id": 38,
+   "height": 0.8548,
+   "children": [
+    [
+     "node",
+     39
+    ],
+    [
+     "node",
+     42
+    ]
+   ]
+  },
+  {
+   "id": 39,
+   "height": 0.7322,
+   "children": [
+    [
+     "leaf",
+     "cell"
+    ],
+    [
+     "node",
+     40
+    ]
+   ]
+  },
+  {
+   "id": 40,
+   "height": 0.6845,
+   "children": [
+    [
+     "leaf",
+     "tissue"
+    ],
+    [
+     "node",
+     41
+    ]
+   ]
+  },
+  {
+   "id": 41,
+   "height": 0.5299,
+   "children": [
+    [
+     "leaf",
+     "elastin"
+    ],
+    [
+     "leaf",
+     "collagen"
+    ]
+   ]
+  },
+  {
+   "id": 42,
+   "height": 0.8116,
+   "children": [
+    [
+     "leaf",
+     "protein"
+    ],
+    [
+     "leaf",
+     "human"
+    ]
+   ]
+  },
+  {
+   "id": 43,
+   "height": 0.8738,
+   "children": [
+    [
+     "leaf",
+     "component"
+    ],
+    [
+     "node",
+     44
+    ]
+   ]
+  },
+  {
+   "id": 44,
+   "height": 0.3801,
+   "children": [
+    [
+     "leaf",
+     "matrix"
+    ],
+    [
+     "leaf",
+     "extracellular"
+    ]
+   ]
+  },
+  {
+   "id": 45,
+   "height": 1.2297,
+   "children": [
+    [
+     "node",
+     46
+    ],
+    [
+     "node",
+     52
+    ]
+   ]
+  },
+  {
+   "id": 46,
+   "height": 1.1302,
+   "children": [
+    [
+     "node",
+     47
+    ],
+    [
+     "node",
+     48
+    ]
+   ]
+  },
+  {
+   "id": 47,
+   "height": 0.678,
+   "children": [
+    [
+     "leaf",
+     "lung"
+    ],
+    [
+     "leaf",
+     "pulmonary"
+    ]
+   ]
+  },
+  {
+   "id": 48,
+   "height": 0.9395,
+   "children": [
+    [
+     "node",
+     49
+    ],
+    [
+     "node",
+     51
+    ]
+   ]
+  },
+  {
+   "id": 49,
+   "height": 0.8542,
+   "children": [
+    [
+     "leaf",
+     "clinical"
+    ],
+    [
+     "node",
+     50
+    ]
+   ]
+  },
+  {
+   "id": 50,
+   "height": 0.7926,
+   "children": [
+    [
+     "leaf",
+     "patient"
+    ],
+    [
+     "leaf",
+     "disease"
+    ]
+   ]
+  },
+  {
+   "id": 51,
+   "height": 0.8979,
+   "children": [
+    [
+     "leaf",
+     "case"
+    ],
+    [
+     "leaf",
+     "syndrome"
+    ]
+   ]
+  },
+  {
+   "id": 52,
+   "height": 1.2086,
+   "children": [
+    [
+     "node",
+     53
+    ],
+    [
+     "node",
+     57
+    ]
+   ]
+  },
+  {
+   "id": 53,
+   "height": 0.9131,
+   "children": [
+    [
+     "leaf",
+     "degradation"
+    ],
+    [
+     "node",
+     54
+    ]
+   ]
+  },
+  {
+   "id": 54,
+   "height": 0.8521,
+   "children": [
+    [
+     "node",
+     55
+    ],
+    [
+     "node",
+     56
+    ]
+   ]
+  },
+  {
+   "id": 55,
+   "height": 0.7795,
+   "children": [
+    [
+     "leaf",
+     "activity"
+    ],
+    [
+     "leaf",
+     "enzyme"
+    ]
+   ]
+  },
+  {
+   "id": 56,
+   "height": 0.8284,
+   "children": [
+    [
+     "leaf",
+     "elastase"
+    ],
+    [
+     "leaf",
+     "inhibitor"
+    ]
+   ]
+  },
+  {
+   "id": 57,
+   "height": 1.0785,
+   "children": [
+    [
+     "node",
+     58
+    ],
+    [
+     "node",
+     65
+    ]
+   ]
+  },
+  {
+   "id": 58,
+   "height": 0.9739,
+   "children": [
+    [
+     "node",
+     59
+    ],
+    [
+     "node",
+     63
+    ]
+   ]
+  },
+  {
+   "id": 59,
+   "height": 0.9215,
+   "children": [
+    [
+     "node",
+     60
+    ],
+    [
+     "node",
+     62
+    ]
+   ]
+  },
+  {
+   "id": 60,
+   "height": 0.8843,
+   "children": [
+    [
+     "leaf",
+     "development"
+    ],
+    [
+     "node",
+     61
+    ]
+   ]
+  },
+  {
+   "id": 61,
+   "height": 0.798,
+   "children": [
+    [
+     "leaf",
+     "role"
+    ],
+    [
+     "leaf",
+     "important"
+    ]
+   ]
+  },
+  {
+   "id": 62,
+   "height": 0.8975,
+   "children": [
+    [
+     "leaf",
+     "formation"
+    ],
+    [
+     "leaf",
+     "process"
+    ]
+   ]
+  },
+  {
+   "id": 63,
+   "height": 0.9244,
+   "children": [
+    [
+     "leaf",
+     "interaction"
+    ],
+    [
+     "node",
+     64
+    ]
+   ]
+  },
+  {
+   "id": 64,
+   "height": 0.8703,
+   "children": [
+    [
+     "leaf",
+     "mechanism"
+    ],
+    [
+     "leaf",
+     "molecular"
+    ]
+   ]
+  },
+  {
+   "id": 65,
+   "height": 0.9817,
+   "children": [
+    [
+     "node",
+     66
+    ],
+    [
+     "node",
+     67
+    ]
+   ]
+  },
+  {
+   "id": 66,
+   "height": 0.7231,
+   "children": [
+    [
+     "leaf",
+     "factor"
+    ],
+    [
+     "leaf",
+     "growth"
+    ]
+   ]
+  },
+  {
+   "id": 67,
+   "height": 0.8411,
+   "children": [
+    [
+     "leaf",
+     "level"
+    ],
+    [
+     "node",
+     68
+    ]
+   ]
+  },
+  {
+   "id": 68,
+   "height": 0.7094,
+   "children": [
+    [
+     "leaf",
+     "expression"
+    ],
+    [
+     "leaf",
+     "gene"
+    ]
+   ]
+  },
+  {
+   "id": 69,
+   "height": 1.0974,
+   "children": [
+    [
+     "node",
+     70
+    ],
+    [
+     "node",
+     78
+    ]
+   ]
+  },
+  {
+   "id": 70,
+   "height": 0.9734,
+   "children": [
+    [
+     "node",
+     71
+    ],
+    [
+     "node",
+     73
+    ]
+   ]
+  },
+  {
+   "id": 71,
+   "height": 0.8942,
+   "children": [
+    [
+     "leaf",
+     "week"
+    ],
+    [
+     "node",
+     72
+    ]
+   ]
+  },
+  {
+   "id": 72,
+   "height": 0.8301,
+   "children": [
+    [
+     "leaf",
+     "rat"
+    ],
+    [
+     "leaf",
+     "day"
+    ]
+   ]
+  },
+  {
+   "id": 73,
+   "height": 0.9351,
+   "children": [
+    [
+     "node",
+     74
+    ],
+    [
+     "node",
+     76
+    ]
+   ]
+  },
+  {
+   "id": 74,
+   "height": 0.8862,
+   "children": [
+    [
+     "leaf",
+     "animal"
+    ],
+    [
+     "node",
+     75
+    ]
+   ]
+  },
+  {
+   "id": 75,
+   "height": 0.814,
+   "children": [
+    [
+     "leaf",
+     "mouse"
+    ],
+    [
+     "leaf",
+     "model"
+    ]
+   ]
+  },
+  {
+   "id": 76,
+   "height": 0.9274,
+   "children": [
+    [
+     "leaf",
+     "response"
+    ],
+    [
+     "node",
+     77
+    ]
+   ]
+  },
+  {
+   "id": 77,
+   "height": 0.7958,
+   "children": [
+    [
+     "leaf",
+     "effect"
+    ],
+    [
+     "leaf",
+     "treatment"
+    ]
+   ]
+  },
+  {
+   "id": 78,
+   "height": 0.9874,
+   "children": [
+    [
+     "node",
+     16
+    ],
+    [
+     "node",
+     79
+    ]
+   ]
+  },
+  {
+   "id": 79,
+   "height": 0.9591,
+   "children": [
+    [
+     "node",
+     80
+    ],
+    [
+     "node",
+     83
+    ]
+   ]
+  },
+  {
+   "id": 80,
+   "height": 0.9126,
+   "children": [
+    [
+     "leaf",
+     "age"
+    ],
+    [
+     "node",
+     81
+    ]
+   ]
+  },
+  {
+   "id": 81,
+   "height": 0.8881,
+   "children": [
+    [
+     "leaf",
+     "content"
+    ],
+    [
+     "node",
+     82
+    ]
+   ]
+  },
+  {
+   "id": 82,
+   "height": 0.8233,
+   "children": [
+    [
+     "leaf",
+     "change"
+    ],
+    [
+     "leaf",
+     "increase"
+    ]
+   ]
+  },
+  {
+   "id": 83,
+   "height": 0.9175,
+   "children": [
+    [
+     "node",
+     84
+    ],
+    [
+     "node",
+     85
+    ]
+   ]
+  },
+  {
+   "id": 84,
+   "height": 0.7696,
+   "children": [
+    [
+     "leaf",
+     "group"
+    ],
+    [
+     "leaf",
+     "control"
+    ]
+   ]
+  },
+  {
+   "id": 85,
+   "height": 0.8034,
+   "children": [
+    [
+     "leaf",
+     "difference"
+    ],
+    [
+     "leaf",
+     "significant"
+    ]
+   ]
+  },
+  {
+   "id": 86,
+   "height": 1.1865,
+   "children": [
+    [
+     "node",
+     87
+    ],
+    [
+     "node",
+     106
+    ]
+   ]
+  },
+  {
+   "id": 87,
+   "height": 1.0436,
+   "children": [
+    [
+     "node",
+     88
+    ],
+    [
+     "node",
+     97
+    ]
+   ]
+  },
+  {
+   "id": 88,
+   "height": 0.9639,
+   "children": [
+    [
+     "node",
+     89
+    ],
+    [
+     "node",
+     92
+    ]
+   ]
+  },
+  {
+   "id": 89,
+   "height": 0.9345,
+   "children": [
+    [
+     "node",
+     90
+    ],
+    [
+     "node",
+     91
+    ]
+   ]
+  },
+  {
+   "id": 90,
+   "height": 0.9104,
+   "children": [
+    [
+     "leaf",
+     "concentration"
+    ],
+    [
+     "leaf",
+     "high"
+    ]
+   ]
+  },
+  {
+   "id": 91,
+   "height": 0.916,
+   "children": [
+    [
+     "leaf",
+     "time"
+    ],
+    [
+     "leaf",
+     "similar"
+    ]
+   ]
+  },
+  {
+   "id": 92,
+   "height": 0.9539,
+   "children": [
+    [
+     "node",
+     93
+    ],
+    [
+     "node",
+     94
+    ]
+   ]
+  },
+  {
+   "id": 93,
+   "height": 0.9289,
+   "children": [
+    [
+     "leaf",
+     "condition"
+    ],
+    [
+     "leaf",
+     "presence"
+    ]
+   ]
+  },
+  {
+   "id": 94,
+   "height": 0.9325,
+   "children": [
+    [
+     "leaf",
+     "specific"
+    ],
+    [
+     "node",
+     95
+    ]
+   ]
+  },
+  {
+   "id": 95,
+   "height": 0.8789,
+   "children": [
+    [
+     "leaf",
+     "type"
+    ],
+    [
+     "leaf",
+     "different"
+    ]
+   ]
+  },
+  {
+   "id": 96,
+   "height": 0.8789,
+   "children": [
+    [
+     "leaf",
+     "stress"
+    ],
+    [
+     "leaf",
+     "strain"
+    ]
+   ]
+  },
+  {
+   "id": 97,
+   "height": 1.0116,
+   "children": [
+    [
+     "node",
+     98
+    ],
+    [
+     "node",
+     101
+    ]
+   ]
+  },
+  {
+   "id": 98,
+   "height": 0.9383,
+   "children": [
+    [
+     "leaf",
+     "membrane"
+    ],
+    [
+     "node",
+     99
+    ]
+   ]
+  },
+  {
+   "id": 99,
+   "height": 0.9095,
+   "children": [
+    [
+     "leaf",
+     "surface"
+    ],
+    [
+     "node",
+     100
+    ]
+   ]
+  },
+  {
+   "id": 100,
+   "height": 0.9048,
+   "children": [
+    [
+     "leaf",
+     "layer"
+    ],
+    [
+     "leaf",
+     "microscopy"
+    ]
+   ]
+  },
+  {
+   "id": 101,
+   "height": 0.9903,
+   "children": [
+    [
+     "leaf",
+     "valve"
+    ],
+    [
+     "node",
+     102
+    ]
+   ]
+  },
+  {
+   "id": 102,
+   "height": 0.9551,
+   "children": [
+    [
+     "node",
+     103
+    ],
+    [
+     "node",
+     105
+    ]
+   ]
+  },
+  {
+   "id": 103,
+   "height": 0.9322,
+   "children": [
+    [
+     "leaf",
+     "number"
+    ],
+    [
+     "node",
+     104
+    ]
+   ]
+  },
+  {
+   "id": 104,
+   "height": 0.9201,
+   "children": [
+    [
+     "leaf",
+     "area"
+    ],
+    [
+     "leaf",
+     "normal"
+    ]
+   ]
+  },
+  {
+   "id": 105,
+   "height": 0.9444,
+   "children": [
+    [
+     "leaf",
+     "sample"
+    ],
+    [
+     "leaf",
+     "region"
+    ]
+   ]
+  },
+  {
+   "id": 106,
+   "height": 1.1059,
+   "children": [
+    [
+     "node",
+     107
+    ],
+    [
+     "node",
+     108
+    ]
+   ]
+  },
+  {
+   "id": 107,
+   "height": 0.5153,
+   "children": [
+    [
+     "leaf",
+     "fiber"
+    ],
+    [
+     "leaf",
+     "elastic"
+    ]
+   ]
+  },
+  {
+   "id": 108,
+   "height": 1.0495,
+   "children": [
+    [
+     "node",
+     109
+    ],
+    [
+     "node",
+     37
+    ]
+   ]
+  },
+  {
+   "id": 109,
+   "height": 0.9083,
+   "children": [
+    [
+     "leaf",
+     "stiffness"
+    ],
+    [
+     "node",
+     96
+    ]
+   ]
+  },
+  {
+   "id": 110,
+   "height": 0.6584,
+   "children": [
+    [
+     "leaf",
+     "property"
+    ],
+    [
+     "leaf",
+     "mechanical"
+    ]
+   ]
+  },
+  {
+   "id": 111,
+   "height": 0.8762,
+   "children": [
+    [
+     "leaf",
+     "function"
+    ],
+    [
+     "node",
+     112
+    ]
+   ]
+  },
+  {
+   "id": 112,
+   "height": 0.8429,
+   "children": [
+    [
+     "leaf",
+     "structure"
+    ],
+    [
+     "leaf",
+     "structural"
+    ]
+   ]
+  },
+  {
+   "id": 113,
+   "height": 1.6401,
+   "children": [
+    [
+     "node",
+     0
+    ],
+    [
+     "node",
+     114
+    ]
+   ]
+  },
+  {
+   "id": 114,
+   "height": 1.477,
+   "children": [
+    [
+     "node",
+     115
+    ],
+    [
+     "node",
+     116
+    ]
+   ]
+  },
+  {
+   "id": 115,
+   "height": 1.3165,
+   "children": [
+    [
+     "node",
+     12
+    ],
+    [
+     "node",
+     24
+    ]
+   ]
+  },
+  {
+   "id": 116,
+   "height": 1.4272,
+   "children": [
+    [
+     "node",
+     36
+    ],
+    [
+     "node",
+     117
+    ]
+   ]
+  },
+  {
+   "id": 117,
+   "height": 1.3465,
+   "children": [
+    [
+     "node",
+     45
+    ],
+    [
+     "node",
+     118
+    ]
+   ]
+  },
+  {
+   "id": 118,
+   "height": 1.2802,
+   "children": [
+    [
+     "node",
+     69
+    ],
+    [
+     "node",
+     86
+    ]
+   ]
+  }
+ ],
+ "root": 113
+}

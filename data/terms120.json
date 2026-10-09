@@ -1,0 +1,962 @@
+{
+"elastin": {
+"pos": "Noun",
+"freq": 23283,
+"rank": 1,
+"cluster": 4,
+"fig2": 2,
+"fig3": true
+},
+"cell": {
+"pos": "Noun",
+"freq": 19879,
+"rank": 2,
+"cluster": 4,
+"fig2": 2,
+"fig3": false
+},
+"collagen": {
+"pos": "Noun",
+"freq": 15847,
+"rank": 3,
+"cluster": 4,
+"fig2": 2,
+"fig3": true
+},
+"tissue": {
+"pos": "Noun",
+"freq": 15719,
+"rank": 4,
+"cluster": 4,
+"fig2": 2,
+"fig3": false
+},
+"protein": {
+"pos": "Noun",
+"freq": 13156,
+"rank": 5,
+"cluster": 4,
+"fig2": 2,
+"fig3": false
+},
+"fiber": {
+"pos": "Noun",
+"freq": 11459,
+"rank": 6,
+"cluster": 7,
+"fig2": 2,
+"fig3": true
+},
+"elastic": {
+"pos": "Adj",
+"freq": 9965,
+"rank": 7,
+"cluster": 7,
+"fig2": 2,
+"fig3": true
+},
+"matrix": {
+"pos": "Noun",
+"freq": 9502,
+"rank": 8,
+"cluster": 4,
+"fig2": 2,
+"fig3": true
+},
+"aortic": {
+"pos": "Adj",
+"freq": 8653,
+"rank": 9,
+"cluster": 1,
+"fig2": 1,
+"fig3": false
+},
+"expression": {
+"pos": "Noun",
+"freq": 8562,
+"rank": 10,
+"cluster": 5,
+"fig2": 7,
+"fig3": true
+},
+"patient": {
+"pos": "Noun",
+"freq": 7957,
+"rank": 11,
+"cluster": 5,
+"fig2": null,
+"fig3": false
+},
+"skin": {
+"pos": "Noun",
+"freq": 7735,
+"rank": 12,
+"cluster": 3,
+"fig2": 5,
+"fig3": true
+},
+"group": {
+"pos": "Noun",
+"freq": 7155,
+"rank": 13,
+"cluster": 6,
+"fig2": 6,
+"fig3": false
+},
+"mouse": {
+"pos": "Noun",
+"freq": 7087,
+"rank": 14,
+"cluster": 6,
+"fig2": null,
+"fig3": true
+},
+"human": {
+"pos": "Adj",
+"freq": 6938,
+"rank": 15,
+"cluster": 4,
+"fig2": 2,
+"fig3": true
+},
+"effect": {
+"pos": "Noun",
+"freq": 6727,
+"rank": 16,
+"cluster": 6,
+"fig2": 2,
+"fig3": false
+},
+"lung": {
+"pos": "Noun",
+"freq": 6442,
+"rank": 17,
+"cluster": 5,
+"fig2": 10,
+"fig3": true
+},
+"model": {
+"pos": "Noun",
+"freq": 6356,
+"rank": 18,
+"cluster": 6,
+"fig2": null,
+"fig3": true
+},
+"level": {
+"pos": "Noun",
+"freq": 6212,
+"rank": 19,
+"cluster": 5,
+"fig2": 7,
+"fig3": false
+},
+"activity": {
+"pos": "Noun",
+"freq": 6059,
+"rank": 20,
+"cluster": 5,
+"fig2": 4,
+"fig3": true
+},
+"vascular": {
+"pos": "Adj",
+"freq": 5991,
+"rank": 21,
+"cluster": 1,
+"fig2": 1,
+"fig3": true
+},
+"property": {
+"pos": "Noun",
+"freq": 5920,
+"rank": 22,
+"cluster": 7,
+"fig2": 11,
+"fig3": true
+},
+"change": {
+"pos": "Noun",
+"freq": 5817,
+"rank": 23,
+"cluster": 6,
+"fig2": null,
+"fig3": false
+},
+"wall": {
+"pos": "Noun",
+"freq": 5721,
+"rank": 24,
+"cluster": 1,
+"fig2": 1,
+"fig3": true
+},
+"disease": {
+"pos": "Noun",
+"freq": 5651,
+"rank": 25,
+"cluster": 5,
+"fig2": null,
+"fig3": true
+},
+"extracellular": {
+"pos": "Adj",
+"freq": 5594,
+"rank": 26,
+"cluster": 4,
+"fig2": 2,
+"fig3": false
+},
+"control": {
+"pos": "Noun",
+"freq": 5520,
+"rank": 27,
+"cluster": 6,
+"fig2": 6,
+"fig3": false
+},
+"gene": {
+"pos": "Noun",
+"freq": 5438,
+"rank": 28,
+"cluster": 5,
+"fig2": 7,
+"fig3": true
+},
+"artery": {
+"pos": "Noun",
+"freq": 5252,
+"rank": 29,
+"cluster": 1,
+"fig2": 1,
+"fig3": true
+},
+"structure": {
+"pos": "Noun",
+"freq": 5086,
+"rank": 30,
+"cluster": 7,
+"fig2": null,
+"fig3": false
+},
+"treatment": {
+"pos": "Noun",
+"freq": 5085,
+"rank": 31,
+"cluster": 6,
+"fig2": null,
+"fig3": true
+},
+"muscle": {
+"pos": "Noun",
+"freq": 5047,
+"rank": 32,
+"cluster": 1,
+"fig2": 1,
+"fig3": true
+},
+"type": {
+"pos": "Noun",
+"freq": 4976,
+"rank": 33,
+"cluster": 7,
+"fig2": null,
+"fig3": true
+},
+"rat": {
+"pos": "Noun",
+"freq": 4868,
+"rank": 34,
+"cluster": 6,
+"fig2": null,
+"fig3": true
+},
+"aorta": {
+"pos": "Noun",
+"freq": 4711,
+"rank": 35,
+"cluster": 1,
+"fig2": 1,
+"fig3": true
+},
+"mechanical": {
+"pos": "Adj",
+"freq": 4700,
+"rank": 36,
+"cluster": 7,
+"fig2": 11,
+"fig3": true
+},
+"role": {
+"pos": "Noun",
+"freq": 4445,
+"rank": 37,
+"cluster": 5,
+"fig2": null,
+"fig3": false
+},
+"factor": {
+"pos": "Noun",
+"freq": 4383,
+"rank": 38,
+"cluster": 5,
+"fig2": 9,
+"fig3": true
+},
+"development": {
+"pos": "Noun",
+"freq": 4116,
+"rank": 39,
+"cluster": 5,
+"fig2": null,
+"fig3": false
+},
+"day": {
+"pos": "Noun",
+"freq": 4074,
+"rank": 40,
+"cluster": 6,
+"fig2": null,
+"fig3": true
+},
+"peptide": {
+"pos": "Noun",
+"freq": 3962,
+"rank": 41,
+"cluster": 2,
+"fig2": null,
+"fig3": false
+},
+"increase": {
+"pos": "Noun",
+"freq": 3926,
+"rank": 42,
+"cluster": 6,
+"fig2": null,
+"fig3": true
+},
+"formation": {
+"pos": "Noun",
+"freq": 3863,
+"rank": 43,
+"cluster": 5,
+"fig2": null,
+"fig3": false
+},
+"different": {
+"pos": "Adj",
+"freq": 3835,
+"rank": 44,
+"cluster": 7,
+"fig2": null,
+"fig3": false
+},
+"significant": {
+"pos": "Adj",
+"freq": 3831,
+"rank": 45,
+"cluster": 6,
+"fig2": null,
+"fig3": false
+},
+"component": {
+"pos": "Noun",
+"freq": 3813,
+"rank": 46,
+"cluster": 4,
+"fig2": 2,
+"fig3": true
+},
+"function": {
+"pos": "Noun",
+"freq": 3809,
+"rank": 47,
+"cluster": 7,
+"fig2": null,
+"fig3": true
+},
+"growth": {
+"pos": "Noun",
+"freq": 3734,
+"rank": 48,
+"cluster": 5,
+"fig2": 9,
+"fig3": false
+},
+"material": {
+"pos": "Noun",
+"freq": 3729,
+"rank": 49,
+"cluster": 2,
+"fig2": null,
+"fig3": true
+},
+"smooth": {
+"pos": "Adj",
+"freq": 3646,
+"rank": 50,
+"cluster": 1,
+"fig2": 1,
+"fig3": true
+},
+"acid": {
+"pos": "Noun",
+"freq": 3643,
+"rank": 51,
+"cluster": 2,
+"fig2": null,
+"fig3": true
+},
+"normal": {
+"pos": "Adj",
+"freq": 3502,
+"rank": 52,
+"cluster": 7,
+"fig2": null,
+"fig3": true
+},
+"arterial": {
+"pos": "Adj",
+"freq": 3459,
+"rank": 53,
+"cluster": 1,
+"fig2": 1,
+"fig3": false
+},
+"elastase": {
+"pos": "Noun",
+"freq": 3363,
+"rank": 54,
+"cluster": 5,
+"fig2": null,
+"fig3": true
+},
+"aneurysm": {
+"pos": "Noun",
+"freq": 3328,
+"rank": 55,
+"cluster": 1,
+"fig2": 1,
+"fig3": false
+},
+"scaffold": {
+"pos": "Noun",
+"freq": 3318,
+"rank": 56,
+"cluster": 3,
+"fig2": null,
+"fig3": true
+},
+"content": {
+"pos": "Noun",
+"freq": 3284,
+"rank": 57,
+"cluster": 6,
+"fig2": null,
+"fig3": true
+},
+"vessel": {
+"pos": "Noun",
+"freq": 3243,
+"rank": 58,
+"cluster": 1,
+"fig2": 1,
+"fig3": false
+},
+"process": {
+"pos": "Noun",
+"freq": 3216,
+"rank": 59,
+"cluster": 5,
+"fig2": null,
+"fig3": false
+},
+"system": {
+"pos": "Noun",
+"freq": 3167,
+"rank": 60,
+"cluster": 2,
+"fig2": null,
+"fig3": false
+},
+"response": {
+"pos": "Noun",
+"freq": 3099,
+"rank": 61,
+"cluster": 6,
+"fig2": null,
+"fig3": false
+},
+"age": {
+"pos": "Noun",
+"freq": 3060,
+"rank": 62,
+"cluster": 6,
+"fig2": null,
+"fig3": true
+},
+"high": {
+"pos": "Adj",
+"freq": 3025,
+"rank": 63,
+"cluster": 7,
+"fig2": null,
+"fig3": false
+},
+"mechanism": {
+"pos": "Noun",
+"freq": 3015,
+"rank": 64,
+"cluster": 5,
+"fig2": null,
+"fig3": false
+},
+"higher": {
+"pos": "Adj",
+"freq": 2987,
+"rank": 65,
+"cluster": 6,
+"fig2": null,
+"fig3": false
+},
+"fibroblast": {
+"pos": "Noun",
+"freq": 2957,
+"rank": 66,
+"cluster": 3,
+"fig2": 5,
+"fig3": false
+},
+"structural": {
+"pos": "Adj",
+"freq": 2953,
+"rank": 67,
+"cluster": 7,
+"fig2": null,
+"fig3": false
+},
+"similar": {
+"pos": "Adj",
+"freq": 2935,
+"rank": 68,
+"cluster": 7,
+"fig2": null,
+"fig3": true
+},
+"pressure": {
+"pos": "Noun",
+"freq": 2859,
+"rank": 69,
+"cluster": 1,
+"fig2": 1,
+"fig3": false
+},
+"clinical": {
+"pos": "Adj",
+"freq": 2854,
+"rank": 70,
+"cluster": 5,
+"fig2": null,
+"fig3": true
+},
+"degradation": {
+"pos": "Noun",
+"freq": 2823,
+"rank": 71,
+"cluster": 5,
+"fig2": null,
+"fig3": false
+},
+"pulmonary": {
+"pos": "Adj",
+"freq": 2757,
+"rank": 72,
+"cluster": 5,
+"fig2": 10,
+"fig3": true
+},
+"application": {
+"pos": "Noun",
+"freq": 2730,
+"rank": 73,
+"cluster": 2,
+"fig2": null,
+"fig3": true
+},
+"blood": {
+"pos": "Noun",
+"freq": 2708,
+"rank": 74,
+"cluster": 1,
+"fig2": 1,
+"fig3": false
+},
+"surface": {
+"pos": "Noun",
+"freq": 2701,
+"rank": 75,
+"cluster": 7,
+"fig2": null,
+"fig3": false
+},
+"difference": {
+"pos": "Noun",
+"freq": 2683,
+"rank": 76,
+"cluster": 6,
+"fig2": null,
+"fig3": false
+},
+"time": {
+"pos": "Noun",
+"freq": 2679,
+"rank": 77,
+"cluster": 7,
+"fig2": null,
+"fig3": false
+},
+"concentration": {
+"pos": "Noun",
+"freq": 2676,
+"rank": 78,
+"cluster": 7,
+"fig2": null,
+"fig3": true
+},
+"week": {
+"pos": "Noun",
+"freq": 2643,
+"rank": 79,
+"cluster": 6,
+"fig2": null,
+"fig3": false
+},
+"vitro": {
+"pos": "Noun",
+"freq": 2601,
+"rank": 80,
+"cluster": 3,
+"fig2": 8,
+"fig3": false
+},
+"enzyme": {
+"pos": "Noun",
+"freq": 2580,
+"rank": 81,
+"cluster": 5,
+"fig2": 4,
+"fig3": true
+},
+"sample": {
+"pos": "Noun",
+"freq": 2543,
+"rank": 82,
+"cluster": 7,
+"fig2": null,
+"fig3": false
+},
+"layer": {
+"pos": "Noun",
+"freq": 2521,
+"rank": 83,
+"cluster": 7,
+"fig2": null,
+"fig3": false
+},
+"tropoelastin": {
+"pos": "Noun",
+"freq": 2505,
+"rank": 84,
+"cluster": 3,
+"fig2": null,
+"fig3": true
+},
+"molecular": {
+"pos": "Adj",
+"freq": 2489,
+"rank": 85,
+"cluster": 5,
+"fig2": null,
+"fig3": false
+},
+"important": {
+"pos": "Adj",
+"freq": 2428,
+"rank": 86,
+"cluster": 5,
+"fig2": null,
+"fig3": false
+},
+"animal": {
+"pos": "Noun",
+"freq": 2423,
+"rank": 87,
+"cluster": 6,
+"fig2": null,
+"fig3": true
+},
+"inhibitor": {
+"pos": "Noun",
+"freq": 2410,
+"rank": 88,
+"cluster": 5,
+"fig2": null,
+"fig3": true
+},
+"vivo": {
+"pos": "Noun",
+"freq": 2409,
+"rank": 89,
+"cluster": 3,
+"fig2": 8,
+"fig3": false
+},
+"culture": {
+"pos": "Noun",
+"freq": 2362,
+"rank": 90,
+"cluster": 3,
+"fig2": null,
+"fig3": true
+},
+"region": {
+"pos": "Noun",
+"freq": 2348,
+"rank": 91,
+"cluster": 7,
+"fig2": null,
+"fig3": true
+},
+"area": {
+"pos": "Noun",
+"freq": 2323,
+"rank": 92,
+"cluster": 7,
+"fig2": null,
+"fig3": false
+},
+"stress": {
+"pos": "Noun",
+"freq": 2323,
+"rank": 93,
+"cluster": 7,
+"fig2": null,
+"fig3": false
+},
+"new": {
+"pos": "Adj",
+"freq": 2321,
+"rank": 94,
+"cluster": 2,
+"fig2": null,
+"fig3": false
+},
+"production": {
+"pos": "Noun",
+"freq": 2300,
+"rank": 95,
+"cluster": 3,
+"fig2": null,
+"fig3": false
+},
+"condition": {
+"pos": "Noun",
+"freq": 2289,
+"rank": 96,
+"cluster": 7,
+"fig2": null,
+"fig3": false
+},
+"valve": {
+"pos": "Noun",
+"freq": 2289,
+"rank": 97,
+"cluster": 7,
+"fig2": null,
+"fig3": true
+},
+"sequence": {
+"pos": "Noun",
+"freq": 2269,
+"rank": 98,
+"cluster": 2,
+"fig2": null,
+"fig3": true
+},
+"microscopy": {
+"pos": "Noun",
+"freq": 2260,
+"rank": 99,
+"cluster": 7,
+"fig2": null,
+"fig3": false
+},
+"interaction": {
+"pos": "Noun",
+"freq": 2153,
+"rank": 100,
+"cluster": 5,
+"fig2": null,
+"fig3": false
+},
+"temperature": {
+"pos": "Noun",
+"freq": 2132,
+"rank": 101,
+"cluster": 2,
+"fig2": 3,
+"fig3": false
+},
+"stiffness": {
+"pos": "Noun",
+"freq": 2126,
+"rank": 102,
+"cluster": 7,
+"fig2": null,
+"fig3": true
+},
+"case": {
+"pos": "Noun",
+"freq": 2113,
+"rank": 103,
+"cluster": 5,
+"fig2": null,
+"fig3": false
+},
+"presence": {
+"pos": "Noun",
+"freq": 2107,
+"rank": 104,
+"cluster": 7,
+"fig2": null,
+"fig3": true
+},
+"strain": {
+"pos": "Noun",
+"freq": 2088,
+"rank": 105,
+"cluster": 7,
+"fig2": null,
+"fig3": false
+},
+"potential": {
+"pos": "Adj",
+"freq": 2082,
+"rank": 106,
+"cluster": 2,
+"fig2": null,
+"fig3": true
+},
+"graft": {
+"pos": "Noun",
+"freq": 2074,
+"rank": 107,
+"cluster": 3,
+"fig2": null,
+"fig3": true
+},
+"synthesis": {
+"pos": "Noun",
+"freq": 2050,
+"rank": 108,
+"cluster": 3,
+"fig2": null,
+"fig3": true
+},
+"diameter": {
+"pos": "Noun",
+"freq": 2037,
+"rank": 109,
+"cluster": 1,
+"fig2": null,
+"fig3": false
+},
+"proliferation": {
+"pos": "Noun",
+"freq": 1987,
+"rank": 110,
+"cluster": 3,
+"fig2": null,
+"fig3": false
+},
+"specific": {
+"pos": "Adj",
+"freq": 1987,
+"rank": 111,
+"cluster": 7,
+"fig2": null,
+"fig3": false
+},
+"lower": {
+"pos": "Adj",
+"freq": 1963,
+"rank": 112,
+"cluster": 6,
+"fig2": null,
+"fig3": false
+},
+"polymer": {
+"pos": "Noun",
+"freq": 1960,
+"rank": 113,
+"cluster": 2,
+"fig2": null,
+"fig3": true
+},
+"polypeptide": {
+"pos": "Noun",
+"freq": 1931,
+"rank": 114,
+"cluster": 2,
+"fig2": 3,
+"fig3": true
+},
+"syndrome": {
+"pos": "Noun",
+"freq": 1912,
+"rank": 115,
+"cluster": 5,
+"fig2": null,
+"fig3": true
+},
+"membrane": {
+"pos": "Noun",
+"freq": 1904,
+"rank": 116,
+"cluster": 7,
+"fig2": null,
+"fig3": true
+},
+"number": {
+"pos": "Noun",
+"freq": 1898,
+"rank": 117,
+"cluster": 7,
+"fig2": null,
+"fig3": false
+},
+"dermal": {
+"pos": "Adj",
+"freq": 1873,
+"rank": 118,
+"cluster": 3,
+"fig2": 5,
+"fig3": false
+},
+"endothelial": {
+"pos": "Adj",
+"freq": 1851,
+"rank": 119,
+"cluster": 3,
+"fig2": null,
+"fig3": false
+},
+"drug": {
+"pos": "Noun",
+"freq": 1836,
+"rank": 120,
+"cluster": 2,
+"fig2": null,
+"fig3": true
+}
+}
