@@ -1,6 +1,6 @@
 # From matrix to materials: Mapping five decades of elastin research through multivariate text mining
 
-Data and code for the manuscript *From matrix to materials: Mapping five decades of elastin research through multivariate text mining* (Y. Kobayashi, Y. Kusunoki, I. Kageyama, H. Wachi, K. Kodama; submitted to *International Journal of Biological Macromolecules*, 2026).
+Data and code for the manuscript *From matrix to materials: Mapping five decades of elastin research through multivariate text mining* (Y. Kobayashi, Y. Kusunoki, I. Kageyama, H. Wachi, K. Kodama; manuscript submitted for publication, 2026).
 
 The study maps the vocabulary of elastin research in 20,217 Web of Science records (1975–2025) with KH Coder: frequent-term analysis, hierarchical cluster analysis, co-occurrence network analysis and correspondence analysis by publication period, with a large language model used only as an aid to interpretation.
 
@@ -11,7 +11,7 @@ The bibliographic records and abstracts retrieved from the Web of Science cannot
 | Path | Description |
 |---|---|
 | `data/stopwords.txt` | The 175-entry stop-word list applied in KH Coder (one entry per line; matched against Stanford POS Tagger lemmas). Grouped by category in `tables/Table_S3.xlsx`. |
-| `data/wordlist_nouns_adjectives.csv` | All nouns and adjectives extracted from the 19,125 abstracts after the stop-word list, with frequencies (KH Coder word list, exported 8 October 2026). |
+| `data/wordlist_nouns_adjectives.csv` | All nouns and adjectives extracted from the 19,125 abstracts after the stop-word list, with frequencies (KH Coder word list, exported 8 October 2026; three tokens that were e-mail addresses have been removed). |
 | `data/terms120.csv` | The 120 most frequent nouns and adjectives (minimum frequency 1,836) with part of speech, frequency, rank, cluster (1–7), subgraph in the co-occurrence network (Figure 2) and use in the correspondence analysis (Figure 3). |
 | `data/clusters_khcoder_export.xlsx` | Cluster membership as exported from KH Coder (seven clusters; Japanese column headers "クラスター1" … "クラスター7"). |
 | `data/dendrogram_tree.json` | Leaf order, label colors, merge heights and cut level of the dendrogram, read from the PDF saved by KH Coder (`figures/Figure_S2.pdf`) with `scripts/dendro_extract.py`. |
@@ -57,4 +57,4 @@ Please cite the manuscript (see `CITATION.cff`). The repository is archived on Z
 
 ## License
 
-Code: MIT (see `LICENSE`). Data tables and figures: Creative Commons Attribution 4.0 (CC BY 4.0). KH Coder and Monkin Reporting for KH Coder are separate software by their respective authors.
+Code: MIT (see `LICENSE`). Data tables and figures: Creative Commons Attribution 4.0 (CC BY 4.0). KH Coder and Monkin Reporting for KH Coder are separate software by their respective authors. `data/cooccurrence_network_khcoder.html` is the interactive file saved from KH Coder; the JavaScript libraries bundled in it (D3, htmlwidgets, networkD3) remain under their own licenses.

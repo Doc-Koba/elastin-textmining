@@ -5,23 +5,28 @@ type: dataset
 authors:
   - family-names: Kobayashi
     given-names: Yoshiyuki
-    affiliation: "Hoshi University; University of Tsukuba; Ritsumeikan University"
+    affiliation: "Hoshi University"
+    orcid: "https://orcid.org/0000-0003-1753-2970"
   - family-names: Kusunoki
     given-names: Yoshiki
     affiliation: "Yokohama University of Pharmacy"
+    orcid: "https://orcid.org/0009-0008-7685-763X"
   - family-names: Kageyama
     given-names: Itsuki
     affiliation: "Hoshi University"
+    orcid: "https://orcid.org/0009-0001-7126-0577"
   - family-names: Wachi
     given-names: Hiroshi
     affiliation: "Hoshi University"
   - family-names: Kodama
     given-names: Kota
-    affiliation: "Hoshi University; Ritsumeikan University; Hokkaido University"
+    affiliation: "Hoshi University"
+    orcid: "https://orcid.org/0000-0002-2360-2034"
 repository-code: "https://github.com/Doc-Koba/elastin-textmining"
-license: MIT
+license:
+  - CC-BY-4.0
+  - MIT
 version: "1.0.0"
-date-released: "2026-10-09"
 keywords:
   - elastin
   - extracellular matrix
@@ -43,6 +48,5 @@ preferred-citation:
       given-names: Hiroshi
     - family-names: Kodama
       given-names: Kota
-  journal: "International Journal of Biological Macromolecules"
   year: 2026
-  notes: "Manuscript submitted."
+  notes: "Manuscript submitted for publication."
